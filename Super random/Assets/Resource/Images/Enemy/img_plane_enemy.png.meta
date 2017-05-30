@@ -1,0 +1,1064 @@
+fileFormatVersion: 2
+guid: a815d10fddcd8204680c1227db4b8bd6
+timeCreated: 1496124110
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: img_plane_enemy_0
+    21300002: img_plane_enemy_1
+    21300004: img_plane_enemy_2
+    21300006: img_plane_enemy_3
+    21300008: img_plane_enemy_4
+    21300010: img_plane_enemy_5
+    21300012: img_plane_enemy_6
+    21300014: img_plane_enemy_7
+    21300016: img_plane_enemy_8
+    21300018: img_plane_enemy_9
+    21300020: img_plane_enemy_10
+    21300022: img_plane_enemy_11
+    21300024: img_plane_enemy_12
+    21300026: img_plane_enemy_13
+    21300028: img_plane_enemy_14
+    21300030: img_plane_enemy_15
+    21300032: img_plane_enemy_16
+    21300034: img_plane_enemy_17
+    21300036: img_plane_enemy_18
+    21300038: img_plane_enemy_19
+    21300040: img_plane_enemy_20
+    21300042: img_plane_enemy_21
+    21300044: img_plane_enemy_22
+    21300046: img_plane_enemy_23
+    21300048: img_plane_enemy_24
+    21300050: img_plane_enemy_25
+    21300052: img_plane_enemy_26
+    21300054: img_plane_enemy_27
+    21300056: img_plane_enemy_28
+    21300058: img_plane_enemy_29
+    21300060: img_plane_enemy_30
+    21300062: img_plane_enemy_31
+    21300064: img_plane_enemy_32
+    21300066: img_plane_enemy_33
+    21300068: img_plane_enemy_34
+    21300070: img_plane_enemy_35
+    21300072: img_plane_enemy_36
+    21300074: img_plane_enemy_37
+    21300076: img_plane_enemy_38
+    21300078: img_plane_enemy_39
+    21300080: img_plane_enemy_40
+    21300082: img_plane_enemy_41
+    21300084: img_plane_enemy_42
+    21300086: img_plane_enemy_43
+    21300088: img_plane_enemy_44
+    21300090: img_plane_enemy_45
+    21300092: img_plane_enemy_46
+    21300094: img_plane_enemy_47
+    21300096: img_plane_enemy_48
+    21300098: img_plane_enemy_49
+    21300100: img_plane_enemy_50
+    21300102: img_plane_enemy_51
+    21300104: img_plane_enemy_52
+    21300106: img_plane_enemy_53
+    21300108: img_plane_enemy_54
+    21300110: img_plane_enemy_55
+    21300112: img_plane_enemy_56
+    21300114: img_plane_enemy_57
+    21300116: img_plane_enemy_58
+    21300118: img_plane_enemy_59
+    21300120: img_plane_enemy_60
+    21300122: img_plane_enemy_61
+    21300124: img_plane_enemy_62
+    21300126: img_plane_enemy_63
+    21300128: img_plane_enemy_64
+    21300130: img_plane_enemy_65
+    21300132: img_plane_enemy_66
+    21300134: img_plane_enemy_67
+    21300136: img_plane_enemy_68
+    21300138: img_plane_enemy_69
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 130
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_plane_enemy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 828
+        width: 259
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 780
+        width: 248
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_2
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 891
+        width: 191
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_3
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 955
+        width: 127
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 773
+        width: 187
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_5
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 778
+        width: 190
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_6
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 885
+        width: 127
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 626
+        width: 246
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_8
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 816
+        width: 127
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_9
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 650
+        width: 186
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_10
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 636
+        width: 175
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_11
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 713
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_12
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 654
+        width: 187
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_13
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 744
+        width: 125
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_14
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 529
+        width: 145
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_15
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 646
+        width: 135
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 557
+        width: 125
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_17
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 531
+        width: 120
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_18
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 530
+        width: 130
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_19
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 568
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_20
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 519
+        width: 151
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_21
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 563
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_22
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 537
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 125
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_24
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 553
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_25
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 494
+        width: 100
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 116
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_27
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 441
+        width: 119
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_28
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 400
+        width: 111
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_29
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 361
+        width: 109
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_30
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 447
+        width: 125
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_31
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 403
+        width: 129
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_32
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 432
+        width: 138
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 112
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_34
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 316
+        width: 113
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_35
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 321
+        width: 110
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_36
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 319
+        width: 108
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_37
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 379
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_38
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 331
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_39
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 358
+        width: 125
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_40
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 314
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 195
+        width: 103
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_42
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 246
+        width: 103
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_43
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 179
+        width: 106
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_44
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 311
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_45
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 265
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_46
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 280
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_47
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 290
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_48
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 167
+        width: 86
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_50
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 234
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_51
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 246
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_52
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 199
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_53
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 144
+        width: 61
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_54
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 217
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_55
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 220
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_56
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 119
+        width: 97
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_57
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 175
+        width: 99
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_58
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 186
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_59
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 137
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_60
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 156
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_61
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 146
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_63
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 31
+        width: 68
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_64
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 32
+        width: 70
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_65
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 96
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 91
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_67
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 5
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_68
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 897
+        width: 191
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: img_plane_enemy_69
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 646
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
