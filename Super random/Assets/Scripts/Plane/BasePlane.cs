@@ -27,7 +27,7 @@ public class BasePlane : MonoBehaviour {
 	// When plane is hit by bullets, meteor or something else
 	public virtual void OnHit(float damage)
 	{
-		// Create be hit effect
+		// Create on hit effect
 		// FUNCTION HERE <----------------------
 
 		// Current HP is reduced by damage 
